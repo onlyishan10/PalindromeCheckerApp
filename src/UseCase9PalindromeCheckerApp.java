@@ -1,5 +1,5 @@
 
-public class UseCase9PalindromeCheckerApp {
+public class PalindromeCheckerApp {
 
     public static void main(String[] args) {
 
